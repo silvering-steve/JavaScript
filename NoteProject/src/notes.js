@@ -1,3 +1,3 @@
 const notes = [];
-     
-module.exports = notes;z
+
+module.exports = notes;
