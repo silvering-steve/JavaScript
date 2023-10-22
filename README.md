@@ -1,1 +1,1 @@
-# JavaScript
+# WILL BE DELETED SOON
